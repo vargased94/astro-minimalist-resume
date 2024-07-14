@@ -1,5 +1,6 @@
 ---
 import Section from "@/components/Section.astro"
+import Icon from "@/components/Icon.astro"
 import Javascript from "@/Icons/Javascript.astro"
 import Typescript from "@/Icons/Typescript.astro"
 import Node from "@/Icons/Node.astro"
@@ -9,7 +10,7 @@ import Css from "@/Icons/Css.astro"
 import Tailwind from "@/Icons/Tailwind.astro"
 import React from "@/Icons/React.astro"
 import Next from "@/Icons/Next.astro"
-import Astro from "@/Icons/Astro.astro"
+import AstroIcon from "@/Icons/AstroIcon.astro"
 import Express from "@/Icons/Express.astro"
 import Nestjs from "@/Icons/Nestjs.astro"
 import Mysql from "@/Icons/Mysql.astro"
@@ -21,6 +22,53 @@ import Mongo from "@/Icons/Mongo.astro"
   <div class="flex flex-col space-y-2">
     <div class="w-full border-b-2 pb-1 border-gray-300">
       <h2 class="font-bold">Skills</h2>
+    </div>
+    <div class="flex flex-wrap gap-1">
+      <Icon name="Javascript">
+        <Javascript />
+      </Icon>
+      <Icon name="Typescript">
+        <Typescript />
+      </Icon>
+      <Icon name="Node">
+        <Node />
+      </Icon>
+      <Icon name="Php">
+        <Php />
+      </Icon>
+      <Icon name="Html">
+        <Html />
+      </Icon>
+      <Icon name="Css">
+        <Css />
+      </Icon>
+      <Icon name="Tailwind">
+        <Tailwind />
+      </Icon>
+      <Icon name="React">
+        <React />
+      </Icon>
+      <Icon name="Next">
+        <Next />
+      </Icon>
+      <Icon name="Astro">
+        <AstroIcon />
+      </Icon>
+      <Icon name="Express">
+        <Express />
+      </Icon>
+      <Icon name="Nestjs">
+        <Nestjs />
+      </Icon>
+      <Icon name="Mysql">
+        <Mysql />
+      </Icon>
+      <Icon name="Postgres">
+        <Postgres />
+      </Icon>
+      <Icon name="Mongo">
+        <Mongo />
+      </Icon>
     </div>
   </div>
 </Section>

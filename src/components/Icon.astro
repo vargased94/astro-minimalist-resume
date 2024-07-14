@@ -1,0 +1,10 @@
+---
+const { name } = Astro.props
+---
+
+<div class="flex items-center px-2 py-1 border border-gray-600 rounded-md">
+  <slot/>
+  <p class="ml-2 text-sm">
+    {name}
+  </p>
+</div>
