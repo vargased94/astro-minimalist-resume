@@ -1,12 +1,14 @@
 {
-  "name": "Eduardo Vargas",
-  "position": "Full Stack Developer",
-  "email": "vargased94@gmail.com",
-  "phone": "+52 33 3333 3333",
-  "github_username": "vargased94",
-  "github_link": "https://github.com/vargased94",
-  "location": "Zapopan, Jalisco",
-  "location_link": "https://maps.app.goo.gl/8pmaCAjvJ9euh1nt5",
+  "hero": {
+    "name": "Eduardo Vargas",
+    "position": "Full Stack Developer",
+    "email": "vargased94@gmail.com",
+    "phone": "+52 33 3333 3333",
+    "github": "vargased94",
+    "github_link": "https://github.com/vargased94",
+    "location": "Zapopan, Jalisco. México.",
+    "location_link": "https://maps.app.goo.gl/8pmaCAjvJ9euh1nt5"
+  },
   "about": "Programador Full Stack con experiencia en desarrollo de aplicaciones web y móviles. Apasionado por la tecnología y la innovación. Me gusta aprender cosas nuevas y compartir mis conocimientos con los demás.",
   "experience": [
     {
