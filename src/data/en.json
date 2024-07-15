@@ -1,0 +1,60 @@
+{
+  "name": "Eduardo Vargas",
+  "position": "Full Stack Developer",
+  "email": "vargased94@gmail.com",
+  "phone": "+52 33 3333 3333",
+  "github_username": "vargased94",
+  "github_link": "https://github.com/vargased94",
+  "location": "Zapopan, Jalisco",
+  "location_link": "https://maps.app.goo.gl/8pmaCAjvJ9euh1nt5",
+  "about": "Programador Full Stack con experiencia en desarrollo de aplicaciones web y móviles. Apasionado por la tecnología y la innovación. Me gusta aprender cosas nuevas y compartir mis conocimientos con los demás.",
+  "experience": [
+    {
+      "company": "Calafia Airlines",
+      "position": "iOS and React Developer",
+      "date": "2018 - 2020",
+      "summary": "Desarrollo de aplicaciones móviles para iOS. Mantenimiento y mejora de aplicaciones existentes. Implementación de nuevas funcionalidades y corrección de errores."
+    },
+    {
+      "company": "Freelance",
+      "position": "Full Stack Developer",
+      "date": "2020 - 2024",
+      "summary": "Desarrollo de aplicaciones web. Creación de APIs RESTful. Implementación de bases de datos relacionales y no relacionales."
+    },
+    {
+      "company": "Peribus Metropolitano",
+      "position": "Full Stack Developer",
+      "date": "2024 - Presente",
+      "summary": "Desarrollo de aplicaciones web. Creación de APIs RESTful. Implementación de bases de datos relacionales y no relacionales."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Guadalajara",
+      "degree": "Ingeniería en Computación",
+      "date": "2014 - 2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "icon": "Javascript.astro"
+    },
+    {
+      "name": "React",
+      "icon": "React.astro"
+    },
+    {
+      "name": "Node.js",
+      "icon": "Node.astro"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "Mongo.astro"
+    },
+    {
+      "name": "MySQL",
+      "icon": "Mysql.astro"
+    }
+  ]
+}
