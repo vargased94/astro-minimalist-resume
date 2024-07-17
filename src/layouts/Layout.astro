@@ -1,5 +1,5 @@
 ---
-
+import { SEOMetadata } from 'astro-seo-metadata'
 ---
 
 <!doctype html>
@@ -8,6 +8,19 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Eduardo Vargas</title>
+    <SEOMetadata
+      siteName="Eduardo Vargas"
+      title="Programador Full Stack"
+      description="Desarrollador de aplicaciones web usando tecnologías modernas como React, Node.js, MongoDB, entre otras."
+      image="https://egymrsekonsdsmtnrbpq.supabase.co/storage/v1/object/public/vargased/profile/me.webp"
+      favicon="/favicon.svg"
+      author="Eduardo Vargas"
+      copyright="ISC"
+      astroSitemap={true}
+      canonicalUrl={Astro.url.toString()}
+      type="website"
+      astroGenerator={true}
+    />
   </head>
   <body class="m-0 p-0">
     <slot />
