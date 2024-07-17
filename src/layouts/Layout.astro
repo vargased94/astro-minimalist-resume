@@ -1,5 +1,6 @@
 ---
 import { SEOMetadata } from 'astro-seo-metadata'
+import SpeedInsights from "@vercel/speed-insights/astro"
 ---
 
 <!doctype html>
@@ -24,6 +25,7 @@ import { SEOMetadata } from 'astro-seo-metadata'
   </head>
   <body class="m-0 p-0">
     <slot />
+    <SpeedInsights />
   </body>
 </html>
 
