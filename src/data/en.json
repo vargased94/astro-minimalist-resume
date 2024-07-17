@@ -9,19 +9,19 @@
     "location": "Zapopan, Jalisco. México.",
     "location_link": "https://maps.app.goo.gl/8pmaCAjvJ9euh1nt5"
   },
-  "about": "Programador Full Stack con experiencia en desarrollo de aplicaciones web y móviles. Apasionado por la tecnología y la innovación. Me gusta aprender cosas nuevas y compartir mis conocimientos con los demás.",
+  "about": "Programador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones web. Apasionado por la tecnología y la innovación. Siempre en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente.",
   "experience": [
     {
       "company": "Calafia Airlines",
-      "position": "iOS and React Developer",
+      "position": "iOS and Web Developer",
       "date": "2018 - 2020",
-      "summary": "Desarrollo de aplicaciones móviles para iOS. Mantenimiento y mejora de aplicaciones existentes. Implementación de nuevas funcionalidades y corrección de errores."
+      "summary": "Desarrollo de aplicaciones móviles para iOS. Creación de modulos y componentes para aplicaciones web. Implementación de APIs RESTful."
     },
     {
       "company": "Freelance",
       "position": "Full Stack Developer",
       "date": "2020 - 2024",
-      "summary": "Desarrollo de aplicaciones web. Creación de APIs RESTful. Implementación de bases de datos relacionales y no relacionales."
+      "summary": "Desarrollo de aplicaciones web. Creación de APIs RESTful. Implementación de bases de datos relacionales y no relacionales. Soporte y mantenimiento de aplicaciones."
     },
     {
       "company": "Peribus Metropolitano",
@@ -32,31 +32,14 @@
   ],
   "education": [
     {
-      "institution": "Universidad de Guadalajara",
-      "degree": "Ingeniería en Computación",
-      "date": "2014 - 2018"
-    }
-  ],
-  "skills": [
-    {
-      "name": "JavaScript",
-      "icon": "Javascript.astro"
+      "institution": "Tecnológico superior de Jalisco",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "date": "2012 - 2018"
     },
     {
-      "name": "React",
-      "icon": "React.astro"
-    },
-    {
-      "name": "Node.js",
-      "icon": "Node.astro"
-    },
-    {
-      "name": "MongoDB",
-      "icon": "Mongo.astro"
-    },
-    {
-      "name": "MySQL",
-      "icon": "Mysql.astro"
+      "institution": "Proulex",
+      "degree": "Ingles basico-intermedio",
+      "date": "2016 - 2018"
     }
   ]
 }
