@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "name": "Eduardo Vargas",
+    "position": "Full Stack Developer",
+    "email": "vargased94@gmail.com",
+    "phone": "+52 33 3333 3333",
+    "github": "vargased94",
+    "github_link": "https://github.com/vargased94",
+    "location": "Zapopan, Jalisco. México.",
+    "location_link": "https://maps.app.goo.gl/8pmaCAjvJ9euh1nt5"
+  },
+  "about": "",
+  "experience": [
+    {
+      "company": "Calafia Airlines",
+      "position": "iOS and Web Developer",
+      "date": "2018 - 2020",
+      "summary": ""
+    },
+    {
+      "company": "Freelance",
+      "position": "Full Stack Developer",
+      "date": "2020 - 2024",
+      "summary": ""
+    },
+    {
+      "company": "Peribus Metropolitano",
+      "position": "Full Stack Developer",
+      "date": "2024 - Presente",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnológico superior de Jalisco",
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "date": "2012 - 2018"
+    },
+    {
+      "institution": "Proulex",
+      "degree": "Ingles basico-intermedio",
+      "date": "2016 - 2018"
+    }
+  ]
+}
