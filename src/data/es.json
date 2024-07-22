@@ -15,19 +15,38 @@
       "company": "Calafia Airlines",
       "position": "iOS and Web Developer",
       "date": "2018 - 2020",
-      "summary": "Desarrollo de aplicaciones móviles para iOS. Creación de modulos y componentes para aplicaciones web. Implementación de APIs RESTful."
+      "summary": "Desarrollo de aplicaciones móviles para iOS. Creación de modulos y componentes para aplicaciones web. Implementación de APIs RESTful.",
+      "tasks": [
+        "Desarrollo de aplicaciones móviles para iOS.",
+        "Creación de modulos y componentes para aplicaciones web.",
+        "Implementación de APIs RESTful."
+      ],
+      "technologies": [ "Swift", "React", "Node.js", "Express", "MongoDB" ]
     },
     {
       "company": "Freelance",
       "position": "Full Stack Developer",
       "date": "2020 - 2024",
-      "summary": "Desarrollo de aplicaciones web. Creación de APIs RESTful. Implementación de bases de datos relacionales y no relacionales. Soporte y mantenimiento de aplicaciones."
+      "summary": "Desarrollo de aplicaciones web. Creación de APIs RESTful. Implementación de bases de datos relacionales y no relacionales. Soporte y mantenimiento de aplicaciones.",
+      "tasks": [
+        "Desarrollo de aplicaciones web.",
+        "Creación de APIs RESTful.",
+        "Implementación de bases de datos relacionales y no relacionales.",
+        "Soporte y mantenimiento de aplicaciones."
+      ],
+      "technologies": [ "React", "Angular", "Node.js", "Express", "MySQL", "MongoDB" ]
     },
     {
       "company": "Peribus Metropolitano",
       "position": "Full Stack Developer",
       "date": "2024 - Presente",
-      "summary": "Desarrollo de aplicaciones web. Creación de APIs RESTful. Implementación de bases de datos relacionales y no relacionales."
+      "summary": "Desarrollo de aplicaciones web. Creación de APIs RESTful. Implementación de bases de datos relacionales y no relacionales.",
+      "tasks": [
+        "Desarrollo de aplicaciones web.",
+        "Creación de APIs RESTful.",
+        "Implementación de bases de datos relacionales y no relacionales."
+      ],
+      "technologies": [ "React", "Angular", "Node.js", "Express", "MySQL", "MongoDB" ]
     }
   ],
   "education": [
