@@ -16,6 +16,7 @@ export default {
 				'h6': { fontSize: config('theme.fontSize.xs') },
 				'p': { fontSize: config('theme.fontSize.sm') },
 				'a': { fontSize: config('theme.fontSize.sm') },
+				'li': { fontSize: config('theme.fontSize.sm') },
 			})
 		}),
 	],
