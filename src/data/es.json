@@ -3,24 +3,24 @@
     "name": "Eduardo Vargas",
     "position": "Full Stack Developer",
     "email": "vargased94@gmail.com",
-    "phone": "+52 33 3333 3333",
+    "phone": "+52 33 3444 8351",
     "github": "vargased94",
     "github_link": "https://github.com/vargased94",
     "location": "Zapopan, Jalisco. México.",
     "location_link": "https://maps.app.goo.gl/8pmaCAjvJ9euh1nt5"
   },
-  "about": "Programador Full Stack con más de 6 años de experiencia en el desarrollo de aplicaciones web. Apasionado por la tecnología y la innovación. Siempre en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente.",
+  "about": "Programador Full Stack apasionado por la tecnología y la innovación con 7 años de experiencia en el desarrollo de aplicaciones backend y frontend. Motivado, autodidacta y orientado al trabajo en equipo, siempre en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente.",
   "experience": [
     {
       "company": "Calafia Airlines",
-      "position": "iOS and Web Developer",
+      "position": "Full Stack Developer",
       "date": "2018 - 2020",
       "tasks": [
         "Desarrollo de aplicaciones móviles para iOS.",
         "Creación de modulos y componentes para aplicaciones web.",
         "Implementación de APIs RESTful"
       ],
-      "technologies": [ "Swift", "React", "PHP", "Laravel", "MySQL" ]
+      "technologies": ["Swift", "React", "PHP", "Laravel", "MySQL"]
     },
     {
       "company": "Freelance",
@@ -32,7 +32,7 @@
         "Implementación de bases de datos relacionales y no relacionales.",
         "Soporte y mantenimiento de aplicaciones."
       ],
-      "technologies": [ "React", "PHP", "Laravel", "Next", "MySQL" ]
+      "technologies": ["React", "PHP", "Laravel", "Next", "MySQL"]
     },
     {
       "company": "Peribus Metropolitano",
@@ -43,7 +43,7 @@
         "Creación de APIs RESTful.",
         "Implementación de bases de datos relacionales y no relacionales."
       ],
-      "technologies": [ "React", "Next", "Node.js", "Express", "Postgres" ]
+      "technologies": ["React", "Next", "Node.js", "Express", "Postgres"]
     }
   ],
   "education": [
