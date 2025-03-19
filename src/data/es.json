@@ -15,35 +15,22 @@
       "company": "Calafia Airlines",
       "position": "Full Stack Developer",
       "date": "2018 - 2020",
-      "tasks": [
-        "Desarrollo de aplicaciones móviles para iOS.",
-        "Creación de modulos y componentes para aplicaciones web.",
-        "Implementación de APIs RESTful"
-      ],
-      "technologies": ["Swift", "React", "PHP", "Laravel", "MySQL"]
+      "tasks": "Implementar y refactorizar componentes web para la aplicación administrativa de la aerolínea, mejorar la experiencia de usuario y optimizar el rendimiento en dispositivos iOS para la reservación y el registro de los pasajeros.",
+      "technologies": ["Swift", "Laravel", "AngularJS", "MySQL"]
     },
     {
       "company": "Freelance",
       "position": "Full Stack Developer",
       "date": "2020 - 2024",
-      "tasks": [
-        "Desarrollo de aplicaciones web.",
-        "Creación de APIs RESTful.",
-        "Implementación de bases de datos relacionales y no relacionales.",
-        "Soporte y mantenimiento de aplicaciones."
-      ],
-      "technologies": ["React", "PHP", "Laravel", "Next", "MySQL"]
+      "tasks": "Desarrollé un sistema web (CRM) para una reparadora de deudas y un fondo de inversión, que incluye generación de reportes en PDF, asignación de leads a asesores y administración de las cuentas de ahorro e inversión.",
+      "technologies": ["React", "Laravel", "TailwindCSS", "MySQL"]
     },
     {
       "company": "Peribus Metropolitano",
       "position": "Full Stack Developer",
       "date": "2024 - Presente",
-      "tasks": [
-        "Desarrollo de aplicaciones web.",
-        "Creación de APIs RESTful.",
-        "Implementación de bases de datos relacionales y no relacionales."
-      ],
-      "technologies": ["React", "Next", "Node.js", "Express", "Postgres"]
+      "tasks": "Desarrollo una aplicación web que centraliza la gestión de órdenes de trabajo para mantenimiento y siniestros en una empresa de transporte público. La solución optimiza los despachos operativos, calcula la productividad en el envío de unidades a ruta y consolida toda la información en un centro de control para su seguimiento.",
+      "technologies": ["Next", "Node", "Express", "Postgres"]
     }
   ],
   "education": [

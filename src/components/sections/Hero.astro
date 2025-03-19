@@ -2,6 +2,7 @@
 import CarbonEmail from "@/Icons/Email.astro"
 import CarbonGithub from "@/Icons/Github.astro"
 import CarbonLocation from "@/Icons/Location.astro"
+import Phone from "@/Icons/Phone.astro"
 import Section from "@/components/Section.astro"
 import { hero } from "@/data/es.json"
 ---
@@ -11,6 +12,15 @@ import { hero } from "@/data/es.json"
     <h2 class="font-bold">{hero.name}</h2>
     <h3 class="text-gray-800">{hero.position}</h3>
     <div class="print:hidden md:hidden grid grid-cols-1 text-gray-800">
+      <!-- <a
+        class="flex items-center hover:underline"
+        href={`tel:${hero.phone}`}
+      >
+        <span class="mr-1">
+          <Phone />
+        </span>
+        {hero.phone}
+      </a> -->
       <a
         class="flex items-center hover:underline"
         href={`mailto:${hero.email}`}
@@ -42,9 +52,17 @@ import { hero } from "@/data/es.json"
       </a>
     </div>
     <div class="hidden print:flex md:flex flex-1 space-x-3 text-gray-800">
+      <!-- <a
+        class="flex items-center hover:underline"
+        href={`tel:${hero.phone}`}
+      >
+        <span class="mr-1">
+          <Phone />
+        </span>
+        {hero.phone}
+      </a> -->
       <a
         class="flex items-center hover:underline"
-        href={`mailto:${hero.email}`}
       >
         <span class="mr-1">
           <CarbonEmail />

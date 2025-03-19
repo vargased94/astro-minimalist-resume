@@ -21,11 +21,9 @@ import { experience } from "@/data/es.json";
             </div>
           </header>
           <footer class="space-y-1">
-            <ul class="list-disc list-inside">
-              {job.tasks.map((task) => (
-                <li class="text-gray-800">{task}</li>
-              ))}
-            </ul>
+            <p class="text-gray-800">
+              <span class="font-medium">Tareas:</span> {job.tasks}
+            </p>
             <p class="text-gray-800">
               <span class="font-medium">Stack:</span> {job.technologies.join(", ")}
             </p>
