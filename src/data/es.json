@@ -30,7 +30,7 @@
       "position": "Full Stack Developer",
       "date": "2024 - Presente",
       "tasks": "Desarrollo una aplicación web que centraliza la gestión de órdenes de trabajo para mantenimiento y siniestros en una empresa de transporte público. La solución optimiza los despachos operativos, calcula la productividad en el envío de unidades a ruta y consolida toda la información en un centro de control para su seguimiento.",
-      "technologies": ["Next", "Node", "Express", "Postgres"]
+      "technologies": ["Next", "Node", "TailwindCSS", "Express", "Postgres"]
     }
   ],
   "education": [

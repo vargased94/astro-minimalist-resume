@@ -3,42 +3,45 @@
     "name": "Eduardo Vargas",
     "position": "Full Stack Developer",
     "email": "vargased94@gmail.com",
-    "phone": "+52 33 3333 3333",
+    "phone": "+52 33 3444 8351",
     "github": "vargased94",
     "github_link": "https://github.com/vargased94",
     "location": "Zapopan, Jalisco. México.",
     "location_link": "https://maps.app.goo.gl/8pmaCAjvJ9euh1nt5"
   },
-  "about": "",
+  "about": "Full Stack Developer passionate about technology and innovation, with 7 years of experience in backend and frontend application development. Motivated, self-taught, and team-oriented, always seeking new challenges and opportunities to continue growing professionally.",
   "experience": [
     {
       "company": "Calafia Airlines",
-      "position": "iOS and Web Developer",
+      "position": "Full Stack Developer",
       "date": "2018 - 2020",
-      "summary": ""
+      "tasks": "Implement and refactor web components for the airline's administrative application, improve user experience, and optimize performance on iOS devices for passenger booking and check-in.",
+      "technologies": ["Swift", "Laravel", "AngularJS", "MySQL"]
     },
     {
       "company": "Freelance",
       "position": "Full Stack Developer",
       "date": "2020 - 2024",
-      "summary": ""
+      "tasks": "I developed a web system (CRM) for a debt repair company and an investment fund, including PDF report generation, lead assignment to advisors, and management of savings and investment accounts.",
+      "technologies": ["React", "Laravel", "TailwindCSS", "MySQL"]
     },
     {
       "company": "Peribus Metropolitano",
       "position": "Full Stack Developer",
       "date": "2024 - Presente",
-      "summary": ""
+      "tasks": "I am developing a web application that centralizes work order management for maintenance and incidents in a public transportation company. The solution optimizes operational dispatches, calculates productivity in unit deployment, and consolidates all information in a control center for tracking.",
+      "technologies": ["Next", "Node", "TailwindCSS", "Express", "Postgres"]
     }
   ],
   "education": [
     {
       "institution": "Tecnológico superior de Jalisco",
-      "degree": "Ingeniería en Sistemas Computacionales",
+      "degree": "Computer Systems Engineering",
       "date": "2012 - 2018"
     },
     {
       "institution": "Proulex",
-      "degree": "Ingles basico-intermedio",
+      "degree": "Basic-Intermediate English",
       "date": "2016 - 2018"
     }
   ]

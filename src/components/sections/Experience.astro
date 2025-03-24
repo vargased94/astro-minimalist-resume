@@ -1,12 +1,12 @@
 ---
 import Section from "@/components/Section.astro";
-import { experience } from "@/data/es.json";
+import { experience } from "@/data/en.json";
 ---
 
 <Section>
   <div class="flex flex-col space-y-2">
     <div class="w-full border-b-2 pb-1 border-gray-300">
-      <h3 class="font-bold">Experiencia</h3>
+      <h3 class="font-bold">Experience</h3>
     </div>
     {
       experience.map((job) => (
@@ -22,7 +22,7 @@ import { experience } from "@/data/es.json";
           </header>
           <footer class="space-y-1">
             <p class="text-gray-800">
-              <span class="font-medium">Tareas:</span> {job.tasks}
+              <span class="font-medium">Tasks:</span> {job.tasks}
             </p>
             <p class="text-gray-800">
               <span class="font-medium">Stack:</span> {job.technologies.join(", ")}
